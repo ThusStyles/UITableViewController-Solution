@@ -1,5 +1,5 @@
 //
-//  TSViewController.h
+//  TSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Theo Styles on 17/02/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TSViewController : UIViewController
+@interface TSTableViewController : UITableViewController
 
 @end
